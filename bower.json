@@ -1,0 +1,27 @@
+{
+  "name": "dammetruyen",
+  "description": "Entertainment site",
+  "main": "",
+  "authors": [
+    "Nguyen Trung Hieu <hieunt142@outlook.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "book",
+    "truyen",
+    "yy",
+    "comic",
+    "chu"
+  ],
+  "homepage": "https://github.com/hieunt142/dammetruyen",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies" : {
+    "bootstrap" : "3.2.0"
+  }
+}
